@@ -366,7 +366,7 @@ section{
     display: grid;
     place-items: center;
     padding: 20px;
-    background: #ebebeb;
+    background: var(--bg-color);
     color: #000;
   }
   .footer h2 {
@@ -379,7 +379,6 @@ section{
     margin-left: 10px;
     text-align: center;
     line-height: 40px;
-    background-color: #fff;
     border-radius: 50%;
     width: 40px;
     height: 40px;
