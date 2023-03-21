@@ -6,6 +6,8 @@
 Este é o repositório do meu portfólio, criado usando HTML, CSS e JavaScript. Este portfólio é uma representação do meu trabalho como desenvolvedor web
 e apresenta meus projetos recentes, habilidades e informações de contato.
 
+Link do projeto: https://everton-buenno.github.io/Portfolio/
+
 ## Tecnologias Usadas
 
 - HTML
